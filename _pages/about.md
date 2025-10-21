@@ -13,9 +13,13 @@ Hey, I'm Bohan Yao. I'm currently an undergraduate at the University of Washingt
 [PDF](../files/paper1.pdf)
 
 # Publications
+- **ARM: Discovering Agentic Reasoning Modules for Generalizable Multi-Agent Systems**  
+    <ins>Bohan Yao</ins>, Shiva Krishna Reddy Malay, Vikas Yadav  
+    **The 5th Workshop on Mathematical Reasoning and AI @ NeurIPS** (2025)  
+    [PDF](https://arxiv.org/abs/2510.05746)  
 - **Diverse Multi-tool Aggregation with Large Language Models for Enhanced Math Reasoning**  
     <ins>Bohan Yao</ins>, Vikas Yadav  
-    In EMNLP Findings (2025)  
+    **EMNLP Findings** (2025) & **The 5th Workshop on Mathematical Reasoning and AI @ NeurIPS** (2025)  
     [PDF](https://arxiv.org/abs/2507.18973)  
 
 # Contact
