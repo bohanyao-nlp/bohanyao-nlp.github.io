@@ -11,6 +11,8 @@ Hey, I'm Bohan Yao. I'm currently an undergraduate at the University of Washingt
 
 I work on natural language processing (NLP) research, and my primary research interest is in developing systems that can tackle challenging reasoning tasks across different problem domains, such as math, coding, science, and involving diverse data modalities, such as text, images, charts. I have worked on research involving tool-augmented LLM frameworks and agentic reasoning systems.
 
+**I am currently searching for Fall 2026 PhD positions for LLM reasoning and agentic systems. Please feel free to reach out if you have any opportunities/information.**
+
 # Resume
 [PDF](../files/resume.pdf)
 
