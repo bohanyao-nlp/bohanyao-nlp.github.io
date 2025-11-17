@@ -13,8 +13,8 @@ I work on natural language processing (NLP) research, and my primary research in
 
 **I am currently searching for Fall 2026 PhD positions for LLM reasoning and agentic systems. Please feel free to reach out if you have any opportunities/information.**
 
-# Resume
-[PDF](../files/resume.pdf)
+# CV
+[PDF](../files/CV.pdf)
 
 # Publications
 - **ARM: Discovering Agentic Reasoning Modules for Generalizable Multi-Agent Systems**  
