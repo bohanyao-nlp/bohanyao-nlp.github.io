@@ -7,16 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I'm Bohan Yao. I'm currently an undergraduate at the University of Washington majoring in computer science and mathematical statistics. I'm also currently working at ServiceNow part-time, where I'm working on multimodal agentic reasoning systems. I previously interned at ServiceNow during 2024 and 2025, where I worked on LLM post-training and agentic systems.
+Hey, I'm Bohan Yao. I'm currently a Master's student at New York University Courant studying computer science. Previously, I obtained my Bachelor's in computer science and mathematical statistics at the University of Washington. I previously interned at ServiceNow throughout 2024-2026, where I worked on LLM post-training, multimodal agentic reasoning systems, and self-evolving agentic systems. 
 
-I work on natural language processing (NLP) research, and my primary research interest is in developing systems that can tackle challenging reasoning tasks across different problem domains, such as math, coding, science, and involving diverse data modalities, such as text, images, charts. I have worked on research involving tool-augmented LLM frameworks and agentic reasoning systems.
+I work on natural language processing (NLP) research, and my primary research interest is in developing agentic systems that can complete complex tasks requiring long-horizon planning, accurately navigate noisy environments, and jointly reason about many different data modalities. I have worked on research involving tool-augmented LLM frameworks and multimodal agentic reasoning systems.
 
-**I am currently searching for Fall 2026 PhD positions for LLM reasoning and agentic systems. Please feel free to reach out if you have any opportunities/information.**
+**I am currently searching for Fall 2028 PhD positions for multimodal agentic systems. Please reach out if you have any opportunities/information.**
 
 [CV](../files/CV.pdf)
 [SoP](../files/sop.pdf)
 
 # Publications
+- **Hybrid Retriever Evolution for Multimodal Document Reasoning Agents**  
+    <ins>Bohan Yao</ins>, Shiva Krishna Reddy Malay, Vikas Yadav  
+    [PDF](https://arxiv.org/abs/2606.29648)
 - **ARM: Discovering Agentic Reasoning Modules for Generalizable Multi-Agent Systems**  
     <ins>Bohan Yao</ins>, Shiva Krishna Reddy Malay, Vikas Yadav  
     **The 5th Workshop on Mathematical Reasoning and AI @ NeurIPS** (2025)  
@@ -27,4 +30,4 @@ I work on natural language processing (NLP) research, and my primary research in
     [PDF](https://arxiv.org/abs/2507.18973)  
 
 # Contact
-I am interested in collaborating on agentic systems and LLM reasoning research. If you have any interesting projects you think I would be a good fit for or want to talk for any other reasons, please reach out via [email](mailto:s1104@cs.washington.edu).
+I am interested in collaborating on agentic systems, LLM reasoning, and AI for science research. If you have any interesting projects you think I would be a good fit for or want to talk for any other reasons, please reach out via [email](mailto:by2613@nyu.edu).
